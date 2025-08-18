@@ -1,4 +1,5 @@
 #User function Template for python3
+#one line code for this problem (for few test cases) ----> nums[:] = nums[-k:] + nums[:-k]
 
 class Solution:
     #Function to rotate an array by d elements in counter-clockwise direction. 
