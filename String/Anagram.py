@@ -15,3 +15,4 @@ class Solution:
                 return False
         return True
     
+# can use frequency array method also same as hashmap
