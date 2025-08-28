@@ -18,4 +18,6 @@ class Solution:
                 idx=i
         
         return '$' if idx==-1 else s[visit[idx]]
+
+# can use hashmap or frequency array
     
